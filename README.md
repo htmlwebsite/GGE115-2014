@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>GGE115 (2014)</title>
-<head>
+</head>
 <style>
     h2{
         text-align: center;
